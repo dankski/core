@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.model;
+package com.appsdeveloperblog.estore.core.query;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
