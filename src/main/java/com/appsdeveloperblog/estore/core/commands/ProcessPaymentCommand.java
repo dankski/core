@@ -16,5 +16,4 @@ public class ProcessPaymentCommand {
   private final String orderId;
   private final PaymentDetails paymentDetails;
 
-    
 }
